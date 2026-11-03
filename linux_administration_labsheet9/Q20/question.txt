@@ -1,0 +1,3 @@
+Question 20
+
+Perform a complete disk and storage management workflow: inspect disks and partitions, check disk usage, mount a dedicated test partition, create and verify data, unmount it and confirm the final storage state.

@@ -1,0 +1,3 @@
+Question 16
+
+Display the partition table of a selected disk using an appropriate command and identify the partitions and their sizes.

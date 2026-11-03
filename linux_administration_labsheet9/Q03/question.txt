@@ -1,0 +1,3 @@
+Question 3
+
+Display the size of the current directory and its contents using du.

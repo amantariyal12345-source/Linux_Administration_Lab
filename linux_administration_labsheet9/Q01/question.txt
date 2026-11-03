@@ -1,0 +1,3 @@
+Question 1
+
+Display the mounted file systems and their disk-space usage using df.

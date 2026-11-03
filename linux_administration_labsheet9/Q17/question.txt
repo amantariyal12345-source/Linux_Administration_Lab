@@ -1,0 +1,3 @@
+Question 17
+
+Create a practice partition on a dedicated test disk or virtual disk using an appropriate partitioning tool, then verify it with lsblk. Do not modify the system disk.

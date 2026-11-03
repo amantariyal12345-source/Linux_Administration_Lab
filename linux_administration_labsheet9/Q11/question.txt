@@ -1,0 +1,3 @@
+Question 11
+
+Attach a suitable test storage device or partition to /mnt/labdisk and verify that it is mounted correctly.

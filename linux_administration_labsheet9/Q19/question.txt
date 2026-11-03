@@ -1,0 +1,3 @@
+Question 19
+
+Unmount the practice file system and verify the mount point, device and partition information after unmounting.

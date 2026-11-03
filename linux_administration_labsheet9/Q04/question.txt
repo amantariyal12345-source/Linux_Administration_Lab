@@ -1,0 +1,3 @@
+Question 4
+
+Display directory sizes in human-readable format and identify which directories are consuming the most space.

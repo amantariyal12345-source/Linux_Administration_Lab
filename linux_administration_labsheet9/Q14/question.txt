@@ -1,0 +1,3 @@
+Question 14
+
+Unmount /mnt/labdisk using umount and verify that the file system is no longer mounted.

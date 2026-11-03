@@ -1,0 +1,3 @@
+Question 6
+
+Display all available block devices, disks and partitions using lsblk.

@@ -1,0 +1,3 @@
+Question 10
+
+Create a dedicated directory named /mnt/labdisk to use as a mount point and verify its permissions and existence.

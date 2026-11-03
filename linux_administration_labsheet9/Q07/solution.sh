@@ -1,0 +1,2 @@
+#!/bin/bash
+lsblk -o NAME,SIZE,TYPE,FSTYPE,MOUNTPOINTS

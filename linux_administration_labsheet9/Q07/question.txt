@@ -1,0 +1,3 @@
+Question 7
+
+Use lsblk to identify the disk names, partition names, sizes, types and mount points on the system.
